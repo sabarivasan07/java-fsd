@@ -1,1 +1,1 @@
-# java-fsd
+# java-assisted practice project
